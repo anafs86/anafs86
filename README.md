@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Ana-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Ana-Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   <img align="center" alt="Ana-Trello" height="30" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px; "src="https://cdn.beacons.ai/user_content/NKeWFpQUlCaRT9kWzVLN4CHg91k2/profile_anafs.png?t=1640091206069">
+  <img align="right" alt="Ana-pic" height="140" style="border-radius:50px; "src="https://cdn.beacons.ai/user_content/NKeWFpQUlCaRT9kWzVLN4CHg91k2/profile_anafs.png?t=1640091206069">
 </div>
 
   
